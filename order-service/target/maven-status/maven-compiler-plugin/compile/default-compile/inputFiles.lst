@@ -1,0 +1,6 @@
+C:\Projects\Springboot_Projects\saga-choreography-minimal\order-service\src\main\java\com\saga\orderservice\config\KafkaConfig.java
+C:\Projects\Springboot_Projects\saga-choreography-minimal\order-service\src\main\java\com\saga\orderservice\domain\Order.java
+C:\Projects\Springboot_Projects\saga-choreography-minimal\order-service\src\main\java\com\saga\orderservice\events\OrderEventListeners.java
+C:\Projects\Springboot_Projects\saga-choreography-minimal\order-service\src\main\java\com\saga\orderservice\OrderServiceApplication.java
+C:\Projects\Springboot_Projects\saga-choreography-minimal\order-service\src\main\java\com\saga\orderservice\repository\OrderRepository.java
+C:\Projects\Springboot_Projects\saga-choreography-minimal\order-service\src\main\java\com\saga\orderservice\web\OrderController.java

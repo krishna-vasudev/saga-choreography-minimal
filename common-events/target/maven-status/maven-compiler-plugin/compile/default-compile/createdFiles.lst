@@ -1,0 +1,5 @@
+com\saga\common\events\InventoryFailedEvent.class
+com\saga\common\events\InventoryReservedEvent.class
+com\saga\common\events\PaymentFailedEvent.class
+com\saga\common\events\OrderCreatedEvent.class
+com\saga\common\events\PaymentCompletedEvent.class

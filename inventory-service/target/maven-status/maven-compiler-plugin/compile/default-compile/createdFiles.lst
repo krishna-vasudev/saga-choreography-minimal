@@ -1,0 +1,3 @@
+com\saga\inventoryservice\config\KafkaConfig.class
+com\saga\inventoryservice\InventoryServiceApplication.class
+com\saga\inventoryservice\events\InventoryListeners.class

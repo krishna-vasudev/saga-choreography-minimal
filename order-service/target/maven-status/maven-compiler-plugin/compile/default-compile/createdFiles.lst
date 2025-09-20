@@ -1,0 +1,6 @@
+com\saga\orderservice\domain\Order.class
+com\saga\orderservice\OrderServiceApplication.class
+com\saga\orderservice\events\OrderEventListeners.class
+com\saga\orderservice\config\KafkaConfig.class
+com\saga\orderservice\repository\OrderRepository.class
+com\saga\orderservice\web\OrderController.class
